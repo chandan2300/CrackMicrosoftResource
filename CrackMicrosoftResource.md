@@ -48,8 +48,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) |  |  |
-| [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |  |  |
+| [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) | ✅  |  |
+| [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |❌ | Hard |
 | [Clone a directed graph](https://leetcode.com/problems/clone-graph/)  |  |  |
 | [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
 | [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  |  |
